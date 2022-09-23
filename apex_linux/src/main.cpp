@@ -9,8 +9,8 @@
 
 // keys: 107 = mouse1, 108 = mouse2, 109 = mouse3, 110 = mouse4, 111 = mouse5
 #define AIMKEY 111
-#define AIMFOV 10.0f
-#define AIMSMOOTH 10.0f
+#define AIMFOV 5.0f
+#define AIMSMOOTH 20.0f
 #define GLOW_ESP 1
 
 typedef unsigned char BYTE;
